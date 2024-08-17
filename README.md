@@ -4,7 +4,7 @@
 
 |생성일|수정일|
 |:---:|:---:|
-|2024.01.14|2024.08.09|
+|2024.01.14|2024.08.17|
 
 ##  Differential Equations
 - [x] 프리드버그 선형대수학
@@ -25,7 +25,7 @@
 - [ ] Hogg 수리통계학
 - [ ] 패턴 인식과 머신러닝
 
-[^1]: 많은 부분을 [『위상수학 첫걸음』](https://product.kyobobook.co.kr/detail/S000200585522)을 참고해야 수월하게 이해할 수 있다. 또한, rebesgue measure & integration는 굳이 할 필요가 없고, 나중에 필요하면 한다.
+[^1]: 많은 부분을 [『위상수학 첫걸음』](https://product.kyobobook.co.kr/detail/S000200585522)을 참고해야 수월하게 이해할 수 있다. 또한, rebesgue measure & integration는 넘긴다. 『Thomas. Abstract Algebra』를 해야 온전히 이해할 수 있기 때문이다.
 [^2]: 뉴턴 열 방정식 부분이 있음. 그것만으로도 공부해야할 이유는 충분함.
 [^3]:『serge Lang. complex analysis』를 보기전 isomophism과 polynomial을 ring의 관점으로 보기 위한 능력이 필요하다. 또한, 흥미로운 응용 주제들이 있어서 공부할만한 가치가 충분하다.
 [^4]: 물리학과 교수님께서 배우면 좋다고 하셨기도 했고, 『STEIN 복소해석학』을 참고하여 보기를 추천한다.
