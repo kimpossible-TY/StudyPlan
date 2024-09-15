@@ -3,7 +3,7 @@
 
 | 생성일        | 수정일        |
 |------------|------------|
-| 2024.01.14 | 2024.09.03 |
+| 2024.01.14 | 2024.09.15 |
 
 ##  Differential Equations
 - [x] ~~프리드버그 선형대수학[^1]~~
@@ -21,8 +21,8 @@
 - [ ] [Shankar. Principles of Quantum Mechanics](https://product.kyobobook.co.kr/detail/S000002413454)
 ## Advanced mathematical statistics: Neural Networks
 - [x] 신경망 설계
-- [ ] Hogg 수리통계학
-- [ ] 패턴 인식과 머신러닝
+- [ ] [Hogg 수리통계학](https://product.kyobobook.co.kr/detail/S000213673847)
+- [ ] [패턴 인식과 머신러닝](https://product.kyobobook.co.kr/detail/S000001916898)
 
 ## Footnotes
 [^1]: 2.3절의 '좌측곱변환'은 『Thomas. Abstract Algebra』를 해야 온전히 이해할 수 있기에 처음 공부할 때는 깊게 공부하지 않는다.
