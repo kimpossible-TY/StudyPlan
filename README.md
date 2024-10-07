@@ -3,7 +3,7 @@
 
 | 생성일        | 수정일        |
 |------------|------------|
-| 2024.01.14 | 2024.09.15 |
+| 2024.01.14 | 2024.10.07 |
 
 ##  Differential Equations
 - [x] ~~프리드버그 선형대수학[^1]~~
@@ -14,15 +14,16 @@
 - [ ] [serge Lang. Complex analysis fourth edition](https://www.amazon.com/Complex-Analysis-Graduate-Texts-Mathematics/dp/0387978860) [^5]
 - [ ] [Ablowitz. Complex variable: introduction and applications](https://ftfsite.ru/wp-content/files/tfkp_endlish_2.2.pdf)[^6]
 - [ ] [STEIN Functional analysis](https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/26656/files/2023/10/STEIN-Shakarchi-Stein-Functional-Analysis_-Introduction-to-Further-Topics-in-Analysis-Princeton-Lectures-in-Analysis-Princeton-University-Press-2011.pdf)
+- [ ] [Hartman. Ordinary Differential Equations](https://www.kyungmoon.com/shop/item.php?it_id=1652670703)
 - [ ] [Evans. Partial Differential Equations](http://home.ustc.edu.cn/~wclw8181/wffc.files/Partial%20Differential%20Equations.Evans.pdf) [^7]
 ## Physics
 - [ ] 미분기하학 바이블[^8]
 - [ ] [Goldstein. Classical Mechanics](https://www.math.toronto.edu/khesin/biblio/GoldsteinPooleSafkoClassicalMechanics.pdf)
 - [ ] [Shankar. Principles of Quantum Mechanics](https://product.kyobobook.co.kr/detail/S000002413454)
 ## Advanced mathematical statistics: Neural Networks
-- [x] 신경망 설계
-- [ ] [Hogg 수리통계학](https://product.kyobobook.co.kr/detail/S000213673847)
-- [ ] [패턴 인식과 머신러닝](https://product.kyobobook.co.kr/detail/S000001916898)
+- [x] ~~신경망 설계~~
+- [ ] Hogg 수리통계학
+- [ ] 패턴 인식과 머신러닝
 
 ## Footnotes
 [^1]: 2.3절의 '좌측곱변환'은 『Thomas. Abstract Algebra』를 해야 온전히 이해할 수 있기에 처음 공부할 때는 깊게 공부하지 않는다.
