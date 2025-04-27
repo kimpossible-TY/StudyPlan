@@ -1,9 +1,9 @@
 # SoongKY STUDY PLAN
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tinos&pause=1000&width=435&lines=Soongsil+Unv.+Physics)](https://git.io/typing-svg)
 
-| 생성일        | 수정일        |
+| created    | modified   |
 |------------|------------|
-| 2024.01.14 | 2025.03.19 |
+| 2024.01.14 | 2025.04.27 |
 
 ##  Differential Equations
 - [x] ~~프리드버그 선형대수학~~
@@ -12,7 +12,8 @@
 - [x] ~~STEIN 푸리에 해석학~~
 - [x] ~~[Thomas. Abstract Algebra: Theory and application](http://abstract.pugetsound.edu/download.html)~~
 - [x] ~~[serge Lang. Complex analysis fourth edition](https://www.amazon.com/Complex-Analysis-Graduate-Texts-Mathematics/dp/0387978860)~~
-- [ ] Hale. Ordinary Differential Equations
+- [x] ~~Hale. Ordinary Differential Equations~~
+- [ ] Gelfand & Fomin. Caluculus of Variations
 - [ ] [Evans. Partial Differential Equations](http://home.ustc.edu.cn/~wclw8181/wffc.files/Partial%20Differential%20Equations.Evans.pdf)
 - [ ] [STEIN Functional analysis](https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/26656/files/2023/10/STEIN-Shakarchi-Stein-Functional-Analysis_-Introduction-to-Further-Topics-in-Analysis-Princeton-Lectures-in-Analysis-Princeton-University-Press-2011.pdf)
 ## Physics
