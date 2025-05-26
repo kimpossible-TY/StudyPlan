@@ -13,7 +13,7 @@
 - [x] ~~[Thomas. Abstract Algebra: Theory and application](http://abstract.pugetsound.edu/download.html)~~
 - [x] ~~[serge Lang. Complex analysis fourth edition](https://www.amazon.com/Complex-Analysis-Graduate-Texts-Mathematics/dp/0387978860)~~
 - [x] ~~Hale. Ordinary Differential Equations~~
-- [🌗] Gelfand & Fomin. Caluculus of Variations
+[🌗] Gelfand & Fomin. Caluculus of Variations
 - [ ] [Evans. Partial Differential Equations](http://home.ustc.edu.cn/~wclw8181/wffc.files/Partial%20Differential%20Equations.Evans.pdf)
 ## Physics
 - [ ] [Goldstein. Classical Mechanics](https://www.math.toronto.edu/khesin/biblio/GoldsteinPooleSafkoClassicalMechanics.pdf)
